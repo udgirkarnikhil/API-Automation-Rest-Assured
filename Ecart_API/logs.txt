@@ -1,0 +1,523 @@
+Request method:	GET
+Request URI:	https://automationexercise.com/api/productsList
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: POST, GET, PUT, OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Td2r1kBM%2BUkIaO8KBBd%2FfJoGPdO7l1waERkcX38dWgSUP33TiXqmdKSH5G%2Fjgfse07iOS1Jeuh%2FIEOIbzOM8jW0i4xtjW%2BFoWh%2B3eaaITTQ%2FJVgM"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9ad4f7e763d-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "products": [{"id": 1, "name": "Blue Top", "price": "Rs. 500", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 2, "name": "Men Tshirt", "price": "Rs. 400", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 3, "name": "Sleeveless Dress", "price": "Rs. 1000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 4, "name": "Stylish Dress", "price": "Rs. 1500", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 5, "name": "Winter Top", "price": "Rs. 600", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 6, "name": "Summer White Top", "price": "Rs. 400", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 7, "name": "Madame Top For Women", "price": "Rs. 1000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 8, "name": "Fancy Green Top", "price": "Rs. 700", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 11, "name": "Sleeves Printed Top - White", "price": "Rs. 499", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 12, "name": "Half Sleeves Top Schiffli Detailing - Pink", "price": "Rs. 359", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 13, "name": "Frozen Tops For Kids", "price": "Rs. 278", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 14, "name": "Full Sleeves Top Cherry - Pink", "price": "Rs. 679", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 15, "name": "Printed Off Shoulder Top - White", "price": "Rs. 315", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 16, "name": "Sleeves Top and Short - Blue &amp; Pink", "price": "Rs. 478", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 18, "name": "Little Girls Mr. Panda Shirt", "price": "Rs. 1200", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 19, "name": "Sleeveless Unicorn Patch Gown - Pink", "price": "Rs. 1050", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 20, "name": "Cotton Mull Embroidered Dress", "price": "Rs. 1190", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 21, "name": "Blue Cotton Indie Mickey Dress", "price": "Rs. 1530", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 22, "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink", "price": "Rs. 1600", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 23, "name": "Sleeveless Unicorn Print Fit &amp; Flare Net Dress - Multi", "price": "Rs. 1100", "brand": "Biba", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 24, "name": "Colour Blocked Shirt \u2013 Sky Blue", "price": "Rs. 849", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 28, "name": "Pure Cotton V-Neck T-Shirt", "price": "Rs. 1299", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 29, "name": "Green Side Placket Detail T-Shirt", "price": "Rs. 1000", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 30, "name": "Premium Polo T-Shirts", "price": "Rs. 1500", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 31, "name": "Pure Cotton Neon Green Tshirt", "price": "Rs. 850", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}, {"id": 33, "name": "Soft Stretch Jeans", "price": "Rs. 799", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 35, "name": "Regular Fit Straight Jeans", "price": "Rs. 1200", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 37, "name": "Grunt Blue Slim Fit Jeans", "price": "Rs. 1400", "brand": "Polo", "category": {"usertype": {"usertype": "Men"}, "category": "Jeans"}}, {"id": 38, "name": "Rose Pink Embroidered Maxi Dress", "price": "Rs. 2300", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Dress"}}, {"id": 39, "name": "Cotton Silk Hand Block Print Saree", "price": "Rs. 3000", "brand": "Biba", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 40, "name": "Rust Red Linen Saree", "price": "Rs. 3500", "brand": "Biba", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 41, "name": "Beautiful Peacock Blue Cotton Linen Saree", "price": "Rs. 5000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Saree"}}, {"id": 42, "name": "Lace Top For Women", "price": "Rs. 1400", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 43, "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE", "price": "Rs. 1389", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Men"}, "category": "Tshirts"}}]}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/productsList
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=cr4p3T9ankSmEMGXJk4AokD%2Bse8evB6VVwL5LZVpn17blwLGPshLBGIr3nM1ynlH1RER09ROc3SmvPytUmvpXqkv94UYXgv6krDxly8ZvkCfPsdh"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9b6da7560c7-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 405, "message": "This request method is not supported."}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/brandsList
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BnhJ9RRtIVz5X54RDizT14zJtn0GezTgOHmD3rqvENN7JNvz739PNfaQy9R7bHMS9rJjlIrLZ5f3UgefOz%2BWyYDBTd9FSMlCkB48CGg02UxbYwfA"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9b87fdb3d59-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "brands": [{"id": 1, "brand": "Polo"}, {"id": 2, "brand": "H&amp;M"}, {"id": 3, "brand": "Madame"}, {"id": 4, "brand": "Madame"}, {"id": 5, "brand": "Mast &amp; Harbour"}, {"id": 6, "brand": "H&amp;M"}, {"id": 7, "brand": "Madame"}, {"id": 8, "brand": "Polo"}, {"id": 11, "brand": "Babyhug"}, {"id": 12, "brand": "Babyhug"}, {"id": 13, "brand": "Allen Solly Junior"}, {"id": 14, "brand": "Kookie Kids"}, {"id": 15, "brand": "Babyhug"}, {"id": 16, "brand": "Babyhug"}, {"id": 18, "brand": "Kookie Kids"}, {"id": 19, "brand": "Allen Solly Junior"}, {"id": 20, "brand": "Kookie Kids"}, {"id": 21, "brand": "Biba"}, {"id": 22, "brand": "Biba"}, {"id": 23, "brand": "Biba"}, {"id": 24, "brand": "Allen Solly Junior"}, {"id": 28, "brand": "H&amp;M"}, {"id": 29, "brand": "Polo"}, {"id": 30, "brand": "Polo"}, {"id": 31, "brand": "H&amp;M"}, {"id": 33, "brand": "Polo"}, {"id": 35, "brand": "H&amp;M"}, {"id": 37, "brand": "Polo"}, {"id": 38, "brand": "Madame"}, {"id": 39, "brand": "Biba"}, {"id": 40, "brand": "Biba"}, {"id": 41, "brand": "Madame"}, {"id": 42, "brand": "Mast &amp; Harbour"}, {"id": 43, "brand": "Mast &amp; Harbour"}]}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/brandsList
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:12 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=c2xfLUHKEui7hL%2F%2BzWEGgm5i95gFNlZ%2BJEqmI4%2B2OjiaxsBq%2FtOWe1XXPstz4eCGyY4hPbT3LKQjHv5jMHdVwsRQmbFlvJzgYzFHyekwl3N7I0se"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9b9b99c0c0a-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 405, "message": "This request method is not supported."}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/searchProduct
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	search_product=top
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=3cFLzN%2BjpbxEg8UrvjWChjc12GQ%2B44P6U8MlKdDufxWhmQYR9Z9MymkRYawBLQXFeGVmzWMlV9ZYTrzV%2FjhrcXt%2FYJH0ZmnvM2%2FaaUdmg9vwT1Tb"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9bb5e33c25a-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "products": [{"id": 1, "name": "Blue Top", "price": "Rs. 500", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 5, "name": "Winter Top", "price": "Rs. 600", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 6, "name": "Summer White Top", "price": "Rs. 400", "brand": "H&amp;M", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 7, "name": "Madame Top For Women", "price": "Rs. 1000", "brand": "Madame", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 8, "name": "Fancy Green Top", "price": "Rs. 700", "brand": "Polo", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}, {"id": 11, "name": "Sleeves Printed Top - White", "price": "Rs. 499", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 12, "name": "Half Sleeves Top Schiffli Detailing - Pink", "price": "Rs. 359", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 13, "name": "Frozen Tops For Kids", "price": "Rs. 278", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 14, "name": "Full Sleeves Top Cherry - Pink", "price": "Rs. 679", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 15, "name": "Printed Off Shoulder Top - White", "price": "Rs. 315", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 16, "name": "Sleeves Top and Short - Blue &amp; Pink", "price": "Rs. 478", "brand": "Babyhug", "category": {"usertype": {"usertype": "Kids"}, "category": "Dress"}}, {"id": 18, "name": "Little Girls Mr. Panda Shirt", "price": "Rs. 1200", "brand": "Kookie Kids", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 24, "name": "Colour Blocked Shirt \u2013 Sky Blue", "price": "Rs. 849", "brand": "Allen Solly Junior", "category": {"usertype": {"usertype": "Kids"}, "category": "Tops &amp; Shirts"}}, {"id": 42, "name": "Lace Top For Women", "price": "Rs. 1400", "brand": "Mast &amp; Harbour", "category": {"usertype": {"usertype": "Women"}, "category": "Tops"}}]}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/searchProduct
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jkoEzi6XPVcQJPER7S4%2BaDlGOTGQ5UD3m6v8wkqJwy97cfAwC3svR55zFbxwoPzz3TbB9nX1pbFjVtu82DnYMX8evQJgGfuIB9aucXgYq%2FPkimfr"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9bcef7060c7-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 400, "message": "Bad request, search_product parameter is missing in POST request."}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=udgirkar@gmail.com
+				password=Test@123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s667pCe4xXLO81dmkqoqiPr1LtytMGCaj5aTNxNoUKo3npCHHLRV%2B4BXieGaqHYF%2BqbAYnI0bllZSeeopbPAe2gKALFwzW%2FmG%2BK%2BSosBGICh7QhV"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9be4d010c0a-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User exists!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=
+				password=Test@123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=QIgeLCDRJcAP5yUA4UeuwcXFAQzgfDp5NVVBCI5yMrSKUpf6kHgHD3mD%2B1coCgltk4K%2BETgzXOqCDG3bWakOVbg909zYdm56u%2BCdAtcti7H6TZtm"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9bf8aabae89-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 404, "message": "User not found!"}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=udgirkar@gmail.com
+				password=Test@123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:13 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: POST, GET, PUT, OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JUNHCr57nwWmzA4gcvmMophXx%2BfGvOEJTcsc4I2awibiv8RsEzJOlkvVIXbPcFt1QhwBaeO7gqIgwxr9tRj%2B2B9%2FpqP2f4myVZcDtR9SaLTBQuqp"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c0deb39ae2-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 405, "message": "This request method is not supported."}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/verifyLogin
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=udgirk@gmail.com
+				password=Test@1123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kkdK3snFk%2FHU1T9eNjAGD0ygpXSqCTje9aGilPcxO7wMVjtRrCzdKbNdzUrCWm2ZMEAuEsXwVJ5pS%2FaE93Vf2JnPtJsNEluRRknZOrKcfe4ukdgD"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c2281c8978-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 404, "message": "User not found!"}</body>
+</html>
+Request method:	POST
+Request URI:	https://automationexercise.com/api/createAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=uydsg
+				email=mvjjbs@mail.com
+				password=jhghs@123
+				title=Mrs.
+				birth_date=03
+				birth_month=10
+				birth_year=2000
+				firstname=gfgfgfgss
+				lastname=hbjhbjhb
+				company=office
+				address1=addr1
+				address2=addr2
+				country=India
+				zipcode=345678
+				state=TS
+				city=HYD
+				mobile_number=9876543210
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2F%2F5vOWY4407kAPrpu0HMebu9Vf4yKwGyGDeJHgnp0utMkUw85WftraTT6YZ86J6s491KoddROiGjGEptgQdltF1WBZIruWe2cZy%2FacyH3upoR04Y"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c3596b9934-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 201, "message": "User created!"}</body>
+</html>
+Request method:	PUT
+Request URI:	https://automationexercise.com/api/updateAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	name=uydsg
+				email=mvjjbs@mail.com
+				password=jhghs@123
+				title=Mrs.
+				birth_date=03
+				birth_month=10
+				birth_year=2000
+				firstname=gfgfgfgss
+				lastname=hbjhbjhb
+				company=office
+				address1=addr1
+				address2=addr2
+				country=India
+				zipcode=345678
+				state=TS
+				city=HYD
+				mobile_number=9876543210
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, PUT
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=frG1OTmIoLoveVCAttV6kJKuSp%2FEExkG48FvOU4KdvkSPKicald3E3NY9MjhuQiWpfOdPApYbhry%2BFgJpSbbHglLiTRsNPNxieOT1hax022FZOr5"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c53f7560c7-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "User updated!"}</body>
+</html>
+Request method:	GET
+Request URI:	https://automationexercise.com/api/getUserDetailByEmail?email=mvjjbs%40mail.com
+Proxy:			<none>
+Request params:	<none>
+Query params:	email=mvjjbs@mail.com
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: GET, OPTIONS, PUT, DELETE, POST
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=T4eFsbtfaYIX5p%2FNcfO%2F2naVhZGXujIBqGkhxlrVPhXAjX0KFZfQST7c%2F9ylzaBFdzmIJGuHrgmXss1LXhpkWibUesoXBuGs4bQBPxXNRaovYID%2B"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c6a81449f2-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "user": {"id": 1407250, "name": "uydsg", "email": "mvjjbs@mail.com", "title": "Mrs.", "birth_day": "03", "birth_month": "10", "birth_year": "2000", "first_name": "gfgfgfgss", "last_name": "hbjhbjhb", "company": "office", "address1": "addr1", "address2": "addr2", "country": "India", "state": "TS", "city": "HYD", "zipcode": "345678"}}</body>
+</html>
+Request method:	DELETE
+Request URI:	https://automationexercise.com/api/deleteAccount
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	email=mvjjbs@mail.com
+				password=jhghs@123
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Tue, 24 Feb 2026 06:30:15 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+vary: Accept,Cookie,Accept-Encoding
+referrer-policy: same-origin
+x-frame-options: DENY
+x-content-type-options: nosniff
+allow: OPTIONS, DELETE
+x-powered-by: Phusion Passenger(R) 6.1.0
+status: 200 OK
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=2gTqUlIV8jf3BHBh3FYbaqwE9UOv3KmgVXa1UzUY7RAs80IvVZigfPRMkLWDXHmOukmbibiZyBXYtOVibPipEagU54LjtT%2BfwWyI5wRjCCUr5KA%2B"}]}
+Server: cloudflare
+cf-cache-status: DYNAMIC
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Content-Encoding: gzip
+CF-RAY: 9d2ce9c7ef2d32f9-JAX
+alt-svc: h3=":443"; ma=86400
+
+<html>
+  <body>{"responseCode": 200, "message": "Account deleted!"}</body>
+</html>
